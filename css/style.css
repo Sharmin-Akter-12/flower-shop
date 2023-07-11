@@ -94,3 +94,24 @@ body {
 .instagram-container-images .image {
     width: 250px;
 }
+
+/* subscription form style */
+
+.subscription-form{
+    max-width: 1140px;
+    height: 400px;
+    margin: 0 auto;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    text-align: center;
+}
+
+.subscribe-form input[type="email"]{
+    margin-bottom: 20px;
+    padding: 18px 30px;
+    color: #757575;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width: 400px;
+    
+}
