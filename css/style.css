@@ -41,3 +41,22 @@ body {
 .banner-description {
     margin-bottom: 30px;
 }
+
+
+/* hot deals style */
+
+.hot-deals-section{
+    margin-top: 100px;
+    background-color: #E554731A;
+}
+.hot-deal {
+    padding: 30px 30px 0px 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hot-deal-content {
+    max-width: 550px;
+    text-align: center;
+}
