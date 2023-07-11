@@ -97,7 +97,7 @@ body {
 
 /* subscription form style */
 
-.subscription-form{
+.subscription-form {
     max-width: 1140px;
     height: 400px;
     margin: 0 auto;
@@ -105,7 +105,7 @@ body {
     text-align: center;
 }
 
-.subscribe-form input[type="email"]{
+.subscribe-form input[type="email"] {
     margin-bottom: 20px;
     padding: 18px 30px;
     color: #757575;
@@ -113,5 +113,32 @@ body {
     background: #FFF;
     border: 0;
     width: 400px;
-    
+
+}
+
+/* footer styles */
+.footer {
+    background: #111010;
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.footer-description {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.footer-tag {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
 }
